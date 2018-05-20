@@ -14,6 +14,7 @@
 from SublimeLinter.lint import RubyLinter
 # import re
 
+
 class Ruby(RubyLinter):
     """Provides an interface to ruby -wc."""
 
